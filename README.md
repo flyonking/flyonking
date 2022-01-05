@@ -8,4 +8,3 @@
 flyonking/flyonking is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-@OSSDAO-ORG•AIRDROP-0x2e6EcA37f2C6f60C1a1330727912403450917070
